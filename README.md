@@ -1,3 +1,7 @@
+# Forked due to the phaxio/phaxio-ruby branch missing support for updated Faraday, causing us to be unable to update other gems dependent on updated Faraday.
+# Revert to phaxio/phaxio-ruby if they merge https://github.com/phaxio/phaxio-ruby/pull/46
+
+
 # 📠 Phaxio
 
 [![Build Status](https://travis-ci.org/phaxio/phaxio-ruby.svg?branch=master)](https://travis-ci.org/phaxio/phaxio-ruby)
